@@ -1,0 +1,12 @@
+html{
+    background-color: black;
+}
+img{
+    border: 10px solid white;
+    margin-top: 150px;
+}
+div{
+    text-transform: uppercase;
+    text-align: center;
+    color: rgb(103, 146, 184);
+}
